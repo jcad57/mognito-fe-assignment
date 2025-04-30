@@ -19,3 +19,6 @@
 
 <h3>Scan QR code on your phone and the app should run!</h3>
 
+<img src="https://github.com/jcad57/mognito-fe-assignment/blob/main/assets/IMG_5611.PNG" width=300>
+<img src="https://github.com/jcad57/mognito-fe-assignment/blob/main/assets/IMG_5610.PNG" width=300>
+<img src="https://github.com/jcad57/mognito-fe-assignment/blob/main/assets/IMG_5612.PNG" width=300>
