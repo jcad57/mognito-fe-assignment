@@ -1,6 +1,8 @@
-<h1>How to run</h1>
+<h1>Mognito FE Assignment</h1>
+<em>Fill in the blanks with the correct words to complete the quote.</em><br><br>
+<b>NOTE:</b> After each attempt, press and hold with three fingers on the screen to open menu and select 'Reload' to play again. I did not include reset functionality. 
 
-<h2>Physical Device:</h2>
+<h2>How to test on physical device</h2>
 <h3>Download Expo Go</h3>
 <p>https://docs.expo.dev/get-started/set-up-your-environment/?platform=ios&device=physical</p>
 
@@ -16,3 +18,4 @@
 <p><code>npx expo start</code></p>
 
 <h3>Scan QR code on your phone and the app should run!</h3>
+
